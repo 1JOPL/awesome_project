@@ -6,3 +6,4 @@ print("hello shrimp")
 print("hello 你好")
 print("hello 你好")
 >>>>>>> Stashed changes
+print("hello shrimp amend")
